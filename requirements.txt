@@ -1,0 +1,2 @@
+os, time, json, random, base64, threading, re, sys, requests, colorama, cursor, HCaptchaTask, requests, colorama, cursor;, HCaptchaTask., os.path
+json, random, sys, os, datetime, datetime
